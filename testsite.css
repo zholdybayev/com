@@ -168,8 +168,8 @@ body {
 	}
 }
 .sectionme {
-    background: url("88cdce464c74ce1.jpg");
-    background-position: center center;
+    background: url("basebg.png");
+    background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
